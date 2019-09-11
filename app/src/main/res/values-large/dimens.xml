@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><dimen name="photo_height">400dp</dimen>
+    <dimen name="photo_width">400dp</dimen>
+    <dimen name="text_job_size">60dp</dimen>
+    <dimen name="text_trabajo_size">30dp</dimen>
+    <dimen name="text_nombre_size">40dp</dimen></resources>
